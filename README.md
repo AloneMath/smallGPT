@@ -150,4 +150,5 @@ jupyter notebook build_your_smallGPT.ipynb
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-The training text (*The Wizard of Oz* by L. Frank Baum, 1900) is in the public domain.
+The training text (*The Wizard of Oz* by L. Frank Baum, 1900) is in the public domain,
+sourced from [Project Gutenberg](https://www.gutenberg.org/).
